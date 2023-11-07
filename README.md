@@ -1,5 +1,6 @@
 # ExamenParcial2
 ## Gustavo Zumaya Miranda
+##Profesor:Leonardo Juarez Zucco 
 
 # SimpleMathAoS
 
